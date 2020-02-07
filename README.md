@@ -10,16 +10,16 @@ This project is a boilerplate for `Flutter` application. It uses `provider` pack
 
 - [x] Provider architecture
 - [x] Login page
-- [x] Hom page
+- [ ] Home page
 - [x] Routing
 - [x] Dio
-- [] RXDart
-- [] SplashScreen
-- [] SharedPreferences
-- [] Local DB
-- [] Logger
-- [] Locale Setup
-- [] Connectivity Service
-- [] Notification Service
-- [] Validations
-- [] Web support
+- [ ] RXDart
+- [ ] SplashScreen
+- [ ] SharedPreferences
+- [ ] Local DB
+- [ ] Logger
+- [ ] Locale Setup
+- [ ] Connectivity Service
+- [ ] Notification Service
+- [ ] Validations
+- [ ] Web support
